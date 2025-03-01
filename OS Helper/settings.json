@@ -1,0 +1,18 @@
+{
+    "window": {
+        "width": 600,
+        "height": 400,
+        "pos_x": 300,
+        "pos_y": 300
+    },
+    "UI": {
+        "background_isOn": true
+    },
+    "onClose": false,
+    "apps": {
+        "OS Helper": {
+            "startup": true,
+            "path": "C:/Users/xolo/PycharmProjects/OS Helper/osh.exe"
+        }
+    }
+}

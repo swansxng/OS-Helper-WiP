@@ -1,0 +1,1 @@
+ys.exit(app.exec())
